@@ -2,10 +2,32 @@
 
 This repository contains my completed tasks for the CodeAlpha AI Internship.
 
-## Tasks Completed
-- [Translation Tool](./translation-tool) — A Streamlit web app that translates text between languages using deep-translator.
+---
 
-## How to run any task
-1. Navigate into the task folder
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the app: `streamlit run app.py`
+## ✅ Task 1: Language Translation Tool
+
+A web app that translates text between multiple languages in real time.
+
+**Tech Stack:** Python, Streamlit, deep-translator
+
+**Features:**
+- Text input with source and target language selection
+- Instant translation on button click
+- Copy-ready output box
+
+**How to run locally:**
+```bash
+cd translation-tool
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+
+**Live Demo:** [https://mehak-taj04-translation-tool-app.streamlit.app/]
+---
+
+
+
+## About Me
+**Mehak Taj**
+CodeAlpha AI Intern
