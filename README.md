@@ -48,6 +48,27 @@ streamlit run app.py
 ---
 ---
 
+---
+
+## ✅ Task 4: Object Detection and Tracking
+
+A real-time object detection and tracking system using a webcam feed.
+
+**Tech Stack:** Python, OpenCV, Ultralytics YOLOv8, ByteTrack
+
+**Features:**
+- Pretrained YOLOv8 model for object detection
+- ByteTrack algorithm for consistent tracking IDs across frames
+- Live bounding boxes with labels and tracking IDs
+
+**How to run locally:**
+```bash
+cd object-tracking
+pip install -r requirements.txt
+python app.py
+```
+(Runs locally only — needs webcam access, not deployed as a web app.)
+
 
 ## About Me
 **Mehak Taj**
