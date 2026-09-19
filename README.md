@@ -44,7 +44,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-**Live Demo:** https://mehak-taj04-faq-chatbot-app.streamlit.app/
+**Live Demo:** [https://mehak-taj04-faq-chatbot-app.streamlit.app/]
+---
+---
 
 
 ## About Me
