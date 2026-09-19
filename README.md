@@ -48,7 +48,6 @@ streamlit run app.py
 ---
 ---
 
----
 
 ## ✅ Task 4: Object Detection and Tracking
 
