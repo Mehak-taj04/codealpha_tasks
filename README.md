@@ -25,7 +25,24 @@ streamlit run app.py
 
 **Live Demo:** [https://mehak-taj04-translation-tool-app.streamlit.app/]
 ---
+---
 
+## ✅ Task 2: FAQ Chatbot
+
+A chatbot that answers frequently asked questions by matching user input to the most relevant FAQ using NLP techniques.
+
+**Tech Stack:** Python, Streamlit, scikit-learn (TF-IDF + cosine similarity)
+
+**Features:**
+- TF-IDF vectorization and cosine similarity for matching questions
+- Styled chat-bubble interface
+
+**How to run locally:**
+```bash
+cd faq-chatbot
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 
 ## About Me
